@@ -1,8 +1,6 @@
-# Translations
+# musi Manka kepeken sitelen pona
 
-Rivals of Aether: Started
-
-Minecraft: Based on the official translation and on jan Poman's sitelen pona version. Complete, but may have mistakes
+Based on the official translation and on jan Poman's sitelen pona version. May have mistakes. Some things are changed.
 
 Minecraft Fabric mods:
 - Chat heads: Complete
