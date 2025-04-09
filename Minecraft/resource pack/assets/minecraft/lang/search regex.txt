@@ -1,1 +1,3 @@
 (: ".*)([aeioujwklmnpst ]|[^%^$]s)(.*")
+
+Unfinished: ".*": ".*([^\\\[A-Za-z@%$'][a-z]).*"
