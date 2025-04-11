@@ -10,3 +10,7 @@ SP next to SL: ([󱤀-󱦣][A-Za-z])|(([^$%\\])[A-Za-z][󱤀-󱦣])
 Often: Mo󱤑g → Mojang
 
 Bad key: ("[^a-z._]+": ")(.*)(",\n)
+
+(light_gray)(?!.*󱥲󱥲󱥏)(.*)(\n)
+(magenta)([^\n]*)()(󱤫󱤣)([^\n]*)(\n)
+$1$2$3󱤣󱤫󱥲$5$6
