@@ -1,3 +1,12 @@
 (: ".*)([aeioujwklmnpst ]|[^%^$]s)(.*")
 
 Unfinished: ".*": ".*([^\\\[A-Za-z@%$'][a-z]).*"
+
+Search: ("[a-z._]+": ")(.*)([ ]?ilo[ ]?)(.*)(",\n)
+Replace: $1$2󱤎$4$5
+
+SP next to SL: ([󱤀-󱦣][A-Za-z])|(([^$%\\])[A-Za-z][󱤀-󱦣])
+
+Often: Mo󱤑g → Mojang
+
+Bad key: ("[^a-z._]+": ")(.*)(",\n)
