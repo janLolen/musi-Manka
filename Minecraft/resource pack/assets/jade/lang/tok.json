@@ -155,7 +155,7 @@
 	"entity.minecraft.villager.none": "󱥉󱤂",
 	"entity.minecraft.villager.nitwit": "󱤘󱤂󱥉",
 	"command.jade.dump.success": "Dumped successfully",
-	"config.jade.plugin_minecraft.horse_stats": "Horse Stats",
+	"config.jade.plugin_minecraft.horse_stats": "󱥵󱥍󱥢󱥩",
 	"jade.horseStat.jump": "󱥵󱥍󱥩󱥚: %s",
 	"jade.horseStat.speed": "󱥵󱥍󱥩󱥟: %s",
 	"config.jade.plugin_minecraft.potion_effects": "Entity Effects",
