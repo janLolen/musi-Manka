@@ -39,13 +39,13 @@
   "enchantment.minecraft.piercing": "§f\uE653§7󱥊󱥻",
   "enchantment.minecraft.swift_sneak": "§f\uE684§7󱥩󱤅󱥵",
   "enchantment.level.1": "󱥍󱥵󱥳", 
-  "enchantment.level.2": "󱥍󱥵󱥮", 
-  "enchantment.level.3": "󱥍󱥵󱥮󱥳", 
-  "enchantment.level.4": "󱥍󱥵󱥮󱥮", 
-  "enchantment.level.5": "󱥍󱥵󱤭", 
-  "enchantment.level.6": "󱥍󱥵󱤭󱥳", 
-  "enchantment.level.7": "󱥍󱥵󱤭󱥮", 
-  "enchantment.level.8": "󱥍󱥵󱤭󱥮󱥳", 
-  "enchantment.level.9": "󱥍󱥵󱤭󱥮󱥮",
-  "enchantment.level.10": "󱥍󱥵󱤭󱤭"
+  "enchantment.level.2": "§b󱥍󱥵󱥮", 
+  "enchantment.level.3": "§e󱥍󱥵󱥮󱥳", 
+  "enchantment.level.4": "§6󱥍󱥵󱥮󱥮", 
+  "enchantment.level.5": "§d󱥍󱥵󱤭", 
+  "enchantment.level.6": "§c󱥍󱥵󱤭󱥳", 
+  "enchantment.level.7": "§c󱥍󱥵󱤭󱥮", 
+  "enchantment.level.8": "§c󱥍󱥵󱤭󱥮󱥳", 
+  "enchantment.level.9": "§c󱥍󱥵󱤭󱥮󱥮",
+  "enchantment.level.10": "§c󱥍󱥵󱤭󱤭"
 }
