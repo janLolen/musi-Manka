@@ -15,3 +15,4 @@ Minecraft Fabric mods:
 - Sodium: In progress
 - Visuality: In progress
 - Xaero's minimap and world map: In progress
+- Nemo's Inventory Sorting: Complete
