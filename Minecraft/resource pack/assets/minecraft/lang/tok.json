@@ -7265,5 +7265,7 @@
    "tutorial.punch_tree.title": "󱥄󱥈󱤉󱤗󱥣",
    "tutorial.socialInteractions.description": "󱥄󱥇󱤙󱥀[%s]",
    "tutorial.socialInteractions.title": "󱥬󱤟",
-   "upgrade.minecraft.netherite_upgrade": "󱥸󱤥󱥍󱤲󱥏"
+   "upgrade.minecraft.netherite_upgrade": "󱥸󱤥󱥍󱤲󱥏",
+   "potion.potency.0": "",
+   "selectWorld.gameMode.spectator.line2": ""
 }
