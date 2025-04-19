@@ -16,3 +16,5 @@ Minecraft Fabric mods:
 - Visuality: In progress
 - Xaero's minimap and world map: In progress
 - Nemo's Inventory Sorting: Complete
+
+The characters are currently stored in an image. I plan on using a .ttf file instead, which is easier to expand upon, to include a couple of UCSUR characters that are still missing, as well as Fairfax's extra encoding for nimisin, and the sitelen telo syllable glyphs. I will also eventually adopt a different approach: instead of using a single lang file, I'll have a file with extra information that's converted into multiple versions depending on the script that needs to be used, which would make it possbile to include a sitelen sitelen version based on jan Quantum's resource pack, as well as versions with tokiponized and transcribed proper names for sitelen pona and sitelen telo.
