@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:sitelen_pona.ttf",
+           "shift": [0, 0],
+           "size": 7,
+           "oversample": 16.0
+        }
+   ]
+}
