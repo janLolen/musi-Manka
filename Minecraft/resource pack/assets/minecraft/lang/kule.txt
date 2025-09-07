@@ -1,5 +1,5 @@
 white, black, brown, red, yellow, blue, green
-󱥲　󱥏　󱤞󱤰　󱤫　󱤒　󱤣󱥪　󱤣󱤗
+󱥲   　󱥏　   󱤞󱤰　 󱤫　 󱤒　    󱤣󱥪　󱤣󱤗
 light gray: white+white+black       󱥲󱥲󱥏
 gray: white+black                   󱥲󱥏
 orange: red+yellow                  󱤫󱤒
