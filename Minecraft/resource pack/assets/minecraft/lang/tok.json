@@ -6654,10 +6654,14 @@
    "options.accessibility.title": "󱤆󱥍󱤘󱤄...",
    "options.allowServerListing": "󱥄󱤘󱥬󱤉󱥂󱥞󱤬󱤟󱤻",
    "options.allowServerListing.tooltip": "󱤟󱤻󱤧󱤘󱥬󱤉󱥂󱤑󱤬󱤪󱥆. 󱥁󱤧󱤂󱤡󱥂󱥞󱤧󱤬󱤂󱤬󱤪.",
+   
+   "causes_sodium_crash": {
    "options.ao": "󱥳󱥤󱥏",
    "options.ao.max": "󱤼",
    "options.ao.min": "󱤨",
-   "options.ao.off": "󱤂",
+   "options.ao.off": "󱤂"
+   },
+
    "options.attack.crosshair": "󱤬󱤮",
    "options.attack.hotbar": "󱤬󱤓󱥞",
    "options.attackIndicator": "󱤮󱥍󱥫󱥱",
